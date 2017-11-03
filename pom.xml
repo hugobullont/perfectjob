@@ -21,11 +21,6 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>jpl</groupId>
-            <artifactId>jpl</artifactId>
-            <version>7.4.0</version>
-        </dependency>
     </dependencies>
 
     <build>
